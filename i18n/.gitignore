@@ -1,0 +1,11 @@
+node_modules
+*.iml
+.idea
+*.log*
+.nuxt
+.nuxt-generate
+.vscode
+.DS_STORE
+coverage
+dist
+package-lock.json
