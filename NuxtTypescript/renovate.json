@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "@nuxtjs"
+  ],
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "labels": [
+    "dependencies"
+  ],
+  "ignoreDeps": [
+    "@nuxt/types",
+    "typescript"
+  ]
+}
